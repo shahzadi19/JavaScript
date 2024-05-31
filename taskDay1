@@ -1,0 +1,8 @@
+let user = "Asad";
+if(user=="Asad"){
+	console.log("Butt");
+}
+let user1 = "Shahzadi";
+if(user1=="Shahzadi"){
+	console.log("Sharif");
+}

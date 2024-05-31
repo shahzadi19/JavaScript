@@ -1,0 +1,17 @@
+//Task 01
+let testername = "Asad";
+ testername = "Khalid";
+ testername = "Shahzadi";
+ {
+ console.log(testername);
+ }
+
+ // Task Day 02 - Camel Case
+
+ let testerName = "Asad";
+ testerName = "Khalid";
+ testerName = "Shahzadi";
+ {
+ console.log(testerName);
+ }
+ 
